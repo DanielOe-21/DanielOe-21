@@ -38,7 +38,7 @@
 <a href="mailto:danieloe21@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/-DanielOe21-red?style=social-square&logo=gmail&logoColor=white&link=mailto:danieloe21@gmail.com">
 </a>
-<a href="https://www.https://github.com/DanielOe-21">
+<a href="https://github.com/DanielOe-21">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/DanielOe-21?style=social">
 </a>
 </p>
