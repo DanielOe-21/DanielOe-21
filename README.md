@@ -1,7 +1,6 @@
 <h1 align = "center"> Hello there, I'm Daniel Ortíz!  <img src="https://github.com/DanielOe-21/DanielOe-21/blob/main/images/waving_hand.gif" width="40px"></h1>
-
 <h3 align="center"> Welcome to my profile, let me introduce myself</h3>
-
+<img align='right' src="https://github.com/DanielOe-21/DanielOe-21/blob/main/images/cuadrado.svg" width="240px">
 😀 About me:
 
 - Dedicated PhD student 📚
@@ -42,6 +41,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=danieloe-21&label=Profile%20views&color=0e75b6&style=plastic" alt="danieloe-21" />
 </p>
+
 <!-- Esta parte son los lenguajes q mas uso
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieloe-21&show_icons=true&locale=en&layout=compact" alt="danieloe-21" />
