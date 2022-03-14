@@ -1,6 +1,6 @@
-<h1 align = "center"> Hello there, I'm Daniel Ortíz!  <img src="https://github.com/DanielOe-21/DanielOe-21/blob/main/images/waving_hand.gif" width="40px"></h1>
+<h1 align = "center"> Hello there, I'm Daniel Ortíz!  <img src="https://github.com/DanielOe-21/DanielOe21/blob/main/images/waving_hand.gif" width="40px"></h1>
 <h3 align="center"> Welcome to my profile, let me introduce myself</h3>
-<img align='right' src="https://github.com/DanielOe-21/DanielOe-21/blob/main/images/cuadrado.svg" width="240px">
+<img align='right' src="https://github.com/DanielOe21/DanielOe21/blob/main/images/cuadrado.svg" width="240px">
 😀 About me:
 
 - Dedicated PhD student 📚
@@ -34,12 +34,12 @@
 <a href="mailto:danieloe21@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/-DanielOe21-red?style=social-square&logo=gmail&logoColor=white&link=mailto:danieloe21@gmail.com">
 </a>
-<a href="https://github.com/DanielOe-21">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/DanielOe-21?style=social">
+<a href="https://github.com/DanielOe21">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/DanielOe21?style=social">
 </a>
 </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=danieloe-21&label=Profile%20views&color=0e75b6&style=plastic" alt="danieloe-21" />
+<img src="https://komarev.com/ghpvc/?username=danieloe21&label=Profile%20views&color=0e75b6&style=plastic" alt="danieloe21" />
 </p>
 
 <!-- Esta parte son los lenguajes q mas uso
