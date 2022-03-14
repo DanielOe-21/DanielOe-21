@@ -19,7 +19,7 @@
   
 <h3 align="left">My Stats:</h3>
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieloe-21&show_icons=true&theme=dark&locale=en" alt="danieloe-21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieloe21&show_icons=true&theme=dark&locale=en" alt="danieloe21" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
