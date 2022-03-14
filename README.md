@@ -1,4 +1,4 @@
-<h1 align = "center"> Hello there, I'm Daniel Ortíz!  <img src="https://github.com/DanielOe-21/DanielOe21/blob/main/images/waving_hand.gif" width="40px"></h1>
+<h1 align = "center"> Hello there, I'm Daniel Ortíz!  <img src="https://github.com/DanielOe21/DanielOe21/blob/main/images/waving_hand.gif" width="40px"></h1>
 <h3 align="center"> Welcome to my profile, let me introduce myself</h3>
 <img align='right' src="https://github.com/DanielOe21/DanielOe21/blob/main/images/cuadrado.svg" width="240px">
 😀 About me:
